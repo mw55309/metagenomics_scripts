@@ -104,7 +104,7 @@ for row in checkm_file:
                                         g = names[l]	
 			
 		# print it all out
-		print '\t'.join(map(str,arr)),
+		print '\t'.join(map(str,arr)),'\t',
 		print "%s\t%s\t%s\t%s\t%s\t%s\t%s" % (sk,k,p,c,o,f,g)
 
 # close file
