@@ -1,0 +1,64 @@
+bin_id	marker_lineage	ml_uid	n_genomes	n_markers	n_marker_sets	n_0	n_1	n_2	n_3	n_4	n_5_plus	completeness	contamination	strain_het	superkingdom	kingdom	phylum	class	order	family	genus
+RMG.HIC.218	k__Bacteria	(UID203)	5449	104	58	0	87	17	0	0	0	100.00	6.90	35.29 	Bacteria						
+RMG.HIC.134	o__Selenomonadales	(UID1024)	64	334	167	2	332	0	0	0	0	99.33	0.00	0.00 	Bacteria		Firmicutes	Negativicutes	Selenomonadales		
+RMG.HIC.45	g__Prevotella	(UID2721)	65	530	280	23	498	9	0	0	0	98.87	2.51	22.22 	Bacteria		Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella
+RMG.HIC.5	p__Firmicutes	(UID1022)	100	295	158	2	288	5	0	0	0	98.73	1.58	0.00 	Bacteria		Firmicutes				
+RMG.HIC.29	o__Clostridiales	(UID1212)	172	263	149	8	253	2	0	0	0	98.63	0.36	50.00 	Bacteria		Firmicutes	Clostridia	Clostridiales		
+RMG.HIC.1	o__Clostridiales	(UID1212)	172	263	149	3	259	1	0	0	0	98.43	0.67	0.00 	Bacteria		Firmicutes	Clostridia	Clostridiales		
+RMG.HIC.149	o__Clostridiales	(UID1212)	172	263	149	9	235	19	0	0	0	98.43	8.71	10.53 	Bacteria		Firmicutes	Clostridia	Clostridiales		
+RMG.HIC.20	p__Actinobacteria	(UID2112)	31	211	124	2	209	0	0	0	0	98.39	0.00	0.00 	Bacteria		Actinobacteria				
+RMG.HIC.52	o__Clostridiales	(UID1212)	172	263	149	3	260	0	0	0	0	97.99	0.00	0.00 	Bacteria		Firmicutes	Clostridia	Clostridiales		
+RMG.HIC.136	o__Clostridiales	(UID1212)	172	263	149	6	257	0	0	0	0	97.32	0.00	0.00 	Bacteria		Firmicutes	Clostridia	Clostridiales		
+RMG.HIC.9	g__Prevotella	(UID2724)	55	567	296	22	539	6	0	0	0	97.03	1.32	16.67 	Bacteria		Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella
+RMG.HIC.58	o__Clostridiales	(UID1212)	172	263	149	7	242	14	0	0	0	96.42	2.65	7.14 	Bacteria		Firmicutes	Clostridia	Clostridiales		
+RMG.HIC.22	o__Clostridiales	(UID1120)	304	247	141	6	240	1	0	0	0	96.10	0.71	0.00 	Bacteria		Firmicutes	Clostridia	Clostridiales		
+RMG.HIC.7	o__Clostridiales	(UID1226)	155	278	158	7	269	2	0	0	0	96.04	0.04	0.00 	Bacteria		Firmicutes	Clostridia	Clostridiales		
+RMG.HIC.181	o__Clostridiales	(UID1212)	172	263	149	9	247	7	0	0	0	95.86	2.68	0.00 	Bacteria		Firmicutes	Clostridia	Clostridiales		
+RMG.HIC.35	k__Bacteria	(UID2372)	131	176	105	9	160	7	0	0	0	95.32	3.63	0.00 	Bacteria						
+RMG.HIC.250	k__Bacteria	(UID2372)	131	177	106	13	159	4	1	0	0	95.28	3.54	14.29 	Bacteria						
+RMG.HIC.39	k__Bacteria	(UID2372)	131	176	105	8	163	5	0	0	0	95.24	3.49	20.00 	Bacteria						
+RMG.HIC.132	o__Bacteroidales	(UID2716)	92	487	270	40	445	2	0	0	0	94.69	0.56	0.00 	Bacteria		Bacteroidetes	Bacteroidia	Bacteroidales		
+RMG.HIC.49	o__Clostridiales	(UID1212)	172	263	149	13	250	0	0	0	0	94.62	0.00	0.00 	Bacteria		Firmicutes	Clostridia	Clostridiales		
+RMG.HIC.71	o__Selenomonadales	(UID1024)	64	334	167	22	293	19	0	0	0	94.61	6.77	63.16 	Bacteria		Firmicutes	Negativicutes	Selenomonadales		
+RMG.HIC.184	g__Prevotella	(UID2724)	55	567	296	60	503	4	0	0	0	94.50	1.01	0.00 	Bacteria		Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella
+RMG.HIC.17	o__Selenomonadales	(UID1024)	64	334	167	30	301	3	0	0	0	94.28	0.90	33.33 	Bacteria		Firmicutes	Negativicutes	Selenomonadales		
+RMG.HIC.137	o__Clostridiales	(UID1226)	155	277	157	10	261	6	0	0	0	94.27	1.93	0.00 	Bacteria		Firmicutes	Clostridia	Clostridiales		
+RMG.HIC.16	c__Gammaproteobacteria	(UID4201)	1164	271	170	12	257	2	0	0	0	94.08	0.49	0.00 	Bacteria		Proteobacteria	Gammaproteobacteria			
+RMG.HIC.59	p__Firmicutes	(UID1022)	100	295	158	17	274	4	0	0	0	93.64	2.53	50.00 	Bacteria		Firmicutes				
+RMG.HIC.6	o__Clostridiales	(UID1212)	172	263	149	10	252	1	0	0	0	93.62	0.67	0.00 	Bacteria		Firmicutes	Clostridia	Clostridiales		
+RMG.HIC.36	f__Lachnospiraceae	(UID1255)	90	354	174	18	333	3	0	0	0	93.28	1.72	0.00 	Bacteria		Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	
+RMG.HIC.53	o__Clostridiales	(UID1120)	304	247	141	12	227	8	0	0	0	92.91	4.26	0.00 	Bacteria		Firmicutes	Clostridia	Clostridiales		
+RMG.HIC.147	p__Euryarchaeota	(UID3)	148	187	124	12	175	0	0	0	0	92.81	0.00	0.00 	Archaea		Euryarchaeota				
+RMG.HIC.10	f__Lachnospiraceae	(UID1286)	57	420	207	24	393	3	0	0	0	92.71	0.72	0.00 	Bacteria		Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	
+RMG.HIC.41	o__Clostridiales	(UID1226)	155	278	158	18	260	0	0	0	0	92.56	0.00	0.00 	Bacteria		Firmicutes	Clostridia	Clostridiales		
+RMG.HIC.33	f__Lachnospiraceae	(UID1286)	57	420	207	55	363	2	0	0	0	92.48	0.48	0.00 	Bacteria		Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	
+RMG.HIC.73	o__Bacteroidales	(UID2617)	213	406	265	31	371	4	0	0	0	92.46	1.26	0.00 	Bacteria		Bacteroidetes	Bacteroidia	Bacteroidales		
+RMG.HIC.14	f__Veillonellaceae	(UID1032)	33	423	214	30	388	5	0	0	0	92.44	0.47	40.00 	Bacteria		Firmicutes	Negativicutes	Veillonellales	Veillonellaceae	
+RMG.HIC.84	p__Actinobacteria	(UID2112)	31	211	124	15	183	13	0	0	0	91.94	9.01	7.69 	Bacteria		Actinobacteria				
+RMG.HIC.3	f__Lachnospiraceae	(UID1286)	57	420	207	30	389	1	0	0	0	91.87	0.48	0.00 	Bacteria		Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	
+RMG.HIC.28	f__Lachnospiraceae	(UID1255)	90	354	174	31	322	1	0	0	0	90.95	0.11	0.00 	Bacteria		Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	
+RMG.HIC.236	k__Bacteria	(UID2329)	174	149	89	10	139	0	0	0	0	90.73	0.00	0.00 	Bacteria						
+RMG.HIC.138	o__Bacteroidales	(UID2657)	160	492	269	32	460	0	0	0	0	90.67	0.00	0.00 	Bacteria		Bacteroidetes	Bacteroidia	Bacteroidales		
+RMG.HIC.42	g__Prevotella	(UID2724)	55	567	296	53	512	2	0	0	0	90.21	0.68	0.00 	Bacteria		Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella
+RMG.HIC.8	o__Bacteroidales	(UID2617)	213	406	265	38	359	9	0	0	0	89.17	2.14	66.67 	Bacteria		Bacteroidetes	Bacteroidia	Bacteroidales		
+RMG.HIC.165	k__Bacteria	(UID2372)	131	176	105	17	158	1	0	0	0	88.57	0.32	0.00 	Bacteria						
+RMG.HIC.4	o__Clostridiales	(UID1226)	155	278	158	23	250	5	0	0	0	88.13	2.55	20.00 	Bacteria		Firmicutes	Clostridia	Clostridiales		
+RMG.HIC.34	p__Bacteroidetes	(UID2605)	350	316	210	35	277	3	1	0	0	87.22	1.90	0.00 	Bacteria		Bacteroidetes				
+RMG.HIC.158	k__Bacteria	(UID1453)	901	171	117	16	150	5	0	0	0	87.18	2.99	20.00 	Bacteria						
+RMG.HIC.195	g__Prevotella	(UID2722)	64	532	281	65	464	3	0	0	0	86.42	0.44	66.67 	Bacteria		Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella
+RMG.HIC.151	k__Bacteria	(UID2372)	131	176	105	25	148	3	0	0	0	85.99	0.93	33.33 	Bacteria						
+RMG.HIC.24	o__Clostridiales	(UID1212)	172	263	149	49	212	2	0	0	0	85.77	0.89	100.00 	Bacteria		Firmicutes	Clostridia	Clostridiales		
+RMG.HIC.15	o__Clostridiales	(UID1226)	155	277	157	34	243	0	0	0	0	85.61	0.00	0.00 	Bacteria		Firmicutes	Clostridia	Clostridiales		
+RMG.HIC.25	f__Lachnospiraceae	(UID1286)	57	420	207	48	367	5	0	0	0	85.23	1.64	20.00 	Bacteria		Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	
+RMG.HIC.27	o__Clostridiales	(UID1226)	155	278	158	32	246	0	0	0	0	85.02	0.00	0.00 	Bacteria		Firmicutes	Clostridia	Clostridiales		
+RMG.HIC.203	k__Bacteria	(UID2569)	434	278	186	35	241	2	0	0	0	84.68	0.81	0.00 	Bacteria						
+RMG.HIC.21	k__Bacteria	(UID2495)	2993	141	87	16	122	3	0	0	0	84.42	3.45	33.33 	Bacteria						
+RMG.HIC.61	f__Lachnospiraceae	(UID1255)	90	354	174	46	300	8	0	0	0	84.06	2.91	62.50 	Bacteria		Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	
+RMG.HIC.57	o__Bacteroidales	(UID2657)	160	492	269	83	405	4	0	0	0	83.62	0.81	25.00 	Bacteria		Bacteroidetes	Bacteroidia	Bacteroidales		
+RMG.HIC.82	k__Bacteria	(UID2329)	174	149	89	29	119	1	0	0	0	83.59	1.12	0.00 	Bacteria						
+RMG.HIC.204	g__Prevotella	(UID2721)	65	530	280	98	424	8	0	0	0	83.32	1.79	37.50 	Bacteria		Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella
+RMG.HIC.179	o__Clostridiales	(UID1212)	172	263	149	33	230	0	0	0	0	83.31	0.00	0.00 	Bacteria		Firmicutes	Clostridia	Clostridiales		
+RMG.HIC.261	o__Bacteroidales	(UID2716)	92	487	270	98	383	6	0	0	0	82.20	1.32	33.33 	Bacteria		Bacteroidetes	Bacteroidia	Bacteroidales		
+RMG.HIC.241	p__Proteobacteria	(UID3887)	1487	256	160	51	199	6	0	0	0	82.18	3.25	33.33 	Bacteria		Proteobacteria				
+RMG.HIC.130	f__Lachnospiraceae	(UID1286)	57	420	207	89	318	13	0	0	0	80.82	3.18	38.46 	Bacteria		Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	
+RMG.HIC.109	p__Actinobacteria	(UID2112)	31	211	124	36	157	18	0	0	0	80.02	7.26	0.00 	Bacteria		Actinobacteria				
